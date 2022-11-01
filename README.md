@@ -14,6 +14,11 @@ name: Irene Guerra Déniz
 birthday: 11/07
 country: Spain
 studying: Data Science Engineering
+discord: 
+[
+  "irenecupcake",
+  "#5415"
+]
 programming_languages: 
 [
   "R", 
