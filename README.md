@@ -4,7 +4,7 @@
 ![header](https://capsule-render.vercel.app/api?type=transparent&section=header&text=Data%20Science%20Engineering&fontSize=30&fontColor=5C46BF&fontAlignY=30&animation=twinkling)
 
 <div align="center">
-<img height=400 src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif"/>
+<img height=400 src="https://www.puttiapps.com/wp-content/uploads/2021/05/business_analitics-2.gif"/>
 </div>
 
 ### ~About me👩‍💻
