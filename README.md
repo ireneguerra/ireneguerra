@@ -13,12 +13,9 @@
 name: Irene Guerra Déniz
 birthday: 11/07
 country: Spain
-studying: Data Science Engineering
-discord: 
-[
-  "irenecupcake",
-  "#5415"
-]
+studies: Data Science Engineering
+studying: Big Data and Data Science Master
+
 programming_languages: 
 [
   "R", 
@@ -34,13 +31,8 @@ programming_languages:
 
 ### ~Social Networks🌐
 
-<a href="https://www.instagram.com/irenee.g11/">
- <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
-<a href="https://discord.com/">
- <img height="50" src="https://img.icons8.com/doodle/452/discord-new-logo.png"/>
- 
-
-
+<a href="https://www.linkedin.com/in/irene-guerra-d%C3%A9niz-81780b2bb/">
+ <img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw1OPXUn0hycylDTGjWAr3vQ&ust=1763651963999000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjYi-LB_pADFQAAAAAdAAAAABAE"/>
 
 ### ~Programming languages💻
 
