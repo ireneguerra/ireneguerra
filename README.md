@@ -13,16 +13,15 @@
 name: Irene Guerra Déniz
 birthday: 11/07
 country: Spain
-studies: Data Science Engineering
-studying: Big Data and Data Science Master
+studies: Bachelor's Degree in Data Science and Engineering
+currently_studying: Master's Degree in Big Data and Data Science
+programming_languages:
+  - Python
+  - R
+  - Java
+  - C
+  
 
-programming_languages: 
-[
-  "R", 
-  "Java", 
-  "C", 
-  "Python
-]
 ```
 
 <div align="center">
@@ -32,7 +31,8 @@ programming_languages:
 ### ~Social Networks🌐
 
 <a href="https://www.linkedin.com/in/irene-guerra-d%C3%A9niz-81780b2bb/">
- <img height="50" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fcommons.wikimedia.org%2Fwiki%2FFile%3ALinkedIn_icon.svg&psig=AOvVaw1OPXUn0hycylDTGjWAr3vQ&ust=1763651963999000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCIjYi-LB_pADFQAAAAAdAAAAABAE"/>
+ <img height="50" src="https://upload.wikimedia.org/wikipedia/commons/c/ca/LinkedIn_logo_initials.png"/>
+ </a>
 
 ### ~Programming languages💻
 
